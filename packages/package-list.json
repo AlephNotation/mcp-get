@@ -337,7 +337,16 @@
     "description": "An MCP server for your shell",
     "vendor": "High Dimensional Research (https://hdr.is)",
     "sourceUrl": "https://github.com/hdresearch/mcp-shell",
-    "homepage": "https://github.com/hdresearch/mcp-shell",
+    "homepage": "https://hdr.is",
+    "license": "MIT",
+    "runtime": "node "
+  },
+  {
+    "name": "kips",
+    "description": "Personal data management server",
+    "vendor": "High Dimensional Research (https://hdr.is)",
+    "sourceUrl": "https://github.com/hdresearch/kips",
+    "homepage": "https://hdr.is",
     "license": "MIT",
     "runtime": "node "
   }
